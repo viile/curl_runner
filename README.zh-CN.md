@@ -1,3 +1,12 @@
+---
+lang: zh-CN
+permalink: /zh-CN/
+title: "cURL Runner — 在本地运行、格式化和可视化 curl 命令"
+description: >-
+  尊重隐私的桌面 curl 工具，支持 macOS / Windows / Linux。本地执行，
+  无 CORS、无埋点、不经任何第三方服务器。包含 JSON 树形与脑图视图、20 种 UI 语言。
+---
+
 # cURL Runner
 
 [English](./README.md) · **简体中文** · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja-JP.md) · [한국어](./README.ko-KR.md) · [Français](./README.fr-FR.md) · [Deutsch](./README.de-DE.md) · [Español](./README.es-ES.md) · [Italiano](./README.it-IT.md) · [Português (BR)](./README.pt-BR.md) · [Русский](./README.ru-RU.md) · [العربية](./README.ar-SA.md) · [Tiếng Việt](./README.vi-VN.md) · [Türkçe](./README.tr-TR.md) · [Polski](./README.pl-PL.md) · [Čeština](./README.cs-CZ.md) · [Български](./README.bg-BG.md) · [Română](./README.ro-RO.md) · [ไทย](./README.th-TH.md) · [Bahasa Indonesia](./README.id-ID.md)

@@ -1,3 +1,13 @@
+---
+lang: bg
+permalink: /bg/
+title: "cURL Runner — изпълнявайте, форматирайте и визуализирайте curl команди локално"
+description: >-
+  Десктоп curl приложение, което уважава поверителността, за macOS, Windows и Linux.
+  Локално изпълнение, без CORS, без телеметрия, без сървър по средата.
+  JSON дърво / мисловна карта, 20 езика на интерфейса.
+---
+
 # cURL Runner
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja-JP.md) · [한국어](./README.ko-KR.md) · [Français](./README.fr-FR.md) · [Deutsch](./README.de-DE.md) · [Español](./README.es-ES.md) · [Italiano](./README.it-IT.md) · [Português (BR)](./README.pt-BR.md) · [Русский](./README.ru-RU.md) · [العربية](./README.ar-SA.md) · [Tiếng Việt](./README.vi-VN.md) · [Türkçe](./README.tr-TR.md) · [Polski](./README.pl-PL.md) · [Čeština](./README.cs-CZ.md) · **Български** · [Română](./README.ro-RO.md) · [ไทย](./README.th-TH.md) · [Bahasa Indonesia](./README.id-ID.md)

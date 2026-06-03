@@ -1,9 +1,12 @@
-<!--
-  This README is intended for the PUBLIC release-only repo: viile/curl_runner.
-  Do NOT push this file into the private source repo's root.
-
-  See public-repo/SETUP.md for one-time bootstrap steps.
--->
+---
+lang: en-US
+permalink: /
+title: "cURL Runner — Run, format and visualize curl commands locally"
+description: >-
+  Privacy-friendly desktop curl runner for macOS, Windows and Linux. Paste,
+  format and run curl commands locally with no CORS, no telemetry and no
+  server in between. Includes JSON tree / mind-map views and 20 UI languages.
+---
 
 # cURL Runner
 

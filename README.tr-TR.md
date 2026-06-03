@@ -1,3 +1,13 @@
+---
+lang: tr
+permalink: /tr/
+title: "cURL Runner — curl komutlarını yerel olarak çalıştırın, biçimlendirin ve görselleştirin"
+description: >-
+  macOS, Windows ve Linux için gizliliğe saygılı masaüstü curl aracı.
+  Yerel çalışma, CORS yok, telemetri yok, aradaki sunucu yok.
+  JSON ağaç / zihin haritası görünümü, 20 arayüz dili.
+---
+
 # cURL Runner
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja-JP.md) · [한국어](./README.ko-KR.md) · [Français](./README.fr-FR.md) · [Deutsch](./README.de-DE.md) · [Español](./README.es-ES.md) · [Italiano](./README.it-IT.md) · [Português (BR)](./README.pt-BR.md) · [Русский](./README.ru-RU.md) · [العربية](./README.ar-SA.md) · [Tiếng Việt](./README.vi-VN.md) · **Türkçe** · [Polski](./README.pl-PL.md) · [Čeština](./README.cs-CZ.md) · [Български](./README.bg-BG.md) · [Română](./README.ro-RO.md) · [ไทย](./README.th-TH.md) · [Bahasa Indonesia](./README.id-ID.md)

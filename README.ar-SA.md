@@ -1,3 +1,13 @@
+---
+lang: ar-SA
+permalink: /ar/
+title: "cURL Runner — تشغيل وتنسيق وعرض أوامر curl محلياً"
+description: >-
+  أداة سطح مكتب curl تحترم الخصوصية لأنظمة macOS و Windows و Linux.
+  تشغيل محلي، بدون CORS، بدون قياسات استخدام، وبدون خادم وسيط.
+  عرض JSON كشجرة وكخريطة ذهنية، 20 لغة للواجهة.
+---
+
 <div dir="rtl">
 
 # cURL Runner

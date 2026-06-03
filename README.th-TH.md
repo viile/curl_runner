@@ -1,3 +1,13 @@
+---
+lang: th
+permalink: /th/
+title: "cURL Runner — รัน จัดรูปแบบ และแสดงผลคำสั่ง curl ในเครื่อง"
+description: >-
+  เครื่องมือ curl บนเดสก์ท็อปที่เคารพความเป็นส่วนตัว สำหรับ macOS, Windows และ Linux
+  รันในเครื่อง ไม่มี CORS ไม่มี telemetry ไม่มีเซิร์ฟเวอร์คั่นกลาง
+  มุมมอง JSON แบบทรีและมายด์แมป รองรับ 20 ภาษา
+---
+
 # cURL Runner
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja-JP.md) · [한국어](./README.ko-KR.md) · [Français](./README.fr-FR.md) · [Deutsch](./README.de-DE.md) · [Español](./README.es-ES.md) · [Italiano](./README.it-IT.md) · [Português (BR)](./README.pt-BR.md) · [Русский](./README.ru-RU.md) · [العربية](./README.ar-SA.md) · [Tiếng Việt](./README.vi-VN.md) · [Türkçe](./README.tr-TR.md) · [Polski](./README.pl-PL.md) · [Čeština](./README.cs-CZ.md) · [Български](./README.bg-BG.md) · [Română](./README.ro-RO.md) · **ไทย** · [Bahasa Indonesia](./README.id-ID.md)

@@ -1,0 +1,53 @@
+# Jekyll config for GitHub Pages.
+# Site URL = url + baseurl  =>  https://viile.github.io/curl_runner
+title: "cURL Runner"
+tagline: "Run, format and visualize curl commands locally"
+description: >-
+  Privacy-friendly desktop curl runner. Paste, format and run curl commands
+  locally on macOS, Windows and Linux. No CORS, no telemetry, no server in
+  between. JSON tree / mind-map view, 20 UI languages, dark mode.
+url: "https://viile.github.io"
+baseurl: "/curl_runner"
+lang: "en-US"
+author: viile
+repository: viile/curl_runner
+
+# Plugins (all on GitHub Pages' allowlist; no extra setup needed)
+plugins:
+  - jekyll-seo-tag       # injects <title>, <meta description>, OG, Twitter, JSON-LD
+  - jekyll-sitemap       # auto-generates /sitemap.xml
+  - jekyll-relative-links # converts ./README.zh-CN.md → /zh-CN/ at render time
+
+# Apply the layout to every page so we don't need per-file `layout:` keys
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Social / SEO meta picked up by jekyll-seo-tag
+twitter:
+  card: summary_large_image
+social:
+  name: viile
+  links:
+    - https://github.com/viile
+
+# Google Search Console / Bing Webmaster Tools verification.
+# Fill in after you generate the meta-tag verification in each console.
+# google_site_verification: ""
+# bing_site_verification: ""
+
+# Don't serve these on the published site
+exclude:
+  - LICENSE
+  - SETUP.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .gitignore
+  - "*.log"
+
+# Tell Jekyll to keep CNAME if you later add a custom domain
+keep_files:
+  - CNAME

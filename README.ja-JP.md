@@ -1,3 +1,13 @@
+---
+lang: ja
+permalink: /ja/
+title: "cURL Runner — curl コマンドをローカルで実行・整形・可視化"
+description: >-
+  プライバシー重視のデスクトップ curl ツール。macOS / Windows / Linux 対応。
+  ローカル実行、CORS なし、テレメトリなし、サーバー経由なし。
+  JSON のツリー / マインドマップ表示、20 言語の UI を搭載。
+---
+
 # cURL Runner
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · **日本語** · [한국어](./README.ko-KR.md) · [Français](./README.fr-FR.md) · [Deutsch](./README.de-DE.md) · [Español](./README.es-ES.md) · [Italiano](./README.it-IT.md) · [Português (BR)](./README.pt-BR.md) · [Русский](./README.ru-RU.md) · [العربية](./README.ar-SA.md) · [Tiếng Việt](./README.vi-VN.md) · [Türkçe](./README.tr-TR.md) · [Polski](./README.pl-PL.md) · [Čeština](./README.cs-CZ.md) · [Български](./README.bg-BG.md) · [Română](./README.ro-RO.md) · [ไทย](./README.th-TH.md) · [Bahasa Indonesia](./README.id-ID.md)

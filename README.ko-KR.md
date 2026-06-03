@@ -1,3 +1,13 @@
+---
+lang: ko
+permalink: /ko/
+title: "cURL Runner — curl 명령을 로컬에서 실행, 포맷팅, 시각화"
+description: >-
+  프라이버시 친화적 데스크톱 curl 도구. macOS / Windows / Linux 지원.
+  로컬 실행, CORS 없음, 텔레메트리 없음, 중간 서버 없음.
+  JSON 트리 / 마인드맵 보기, 20개 UI 언어 지원.
+---
+
 # cURL Runner
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja-JP.md) · **한국어** · [Français](./README.fr-FR.md) · [Deutsch](./README.de-DE.md) · [Español](./README.es-ES.md) · [Italiano](./README.it-IT.md) · [Português (BR)](./README.pt-BR.md) · [Русский](./README.ru-RU.md) · [العربية](./README.ar-SA.md) · [Tiếng Việt](./README.vi-VN.md) · [Türkçe](./README.tr-TR.md) · [Polski](./README.pl-PL.md) · [Čeština](./README.cs-CZ.md) · [Български](./README.bg-BG.md) · [Română](./README.ro-RO.md) · [ไทย](./README.th-TH.md) · [Bahasa Indonesia](./README.id-ID.md)

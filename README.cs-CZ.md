@@ -1,3 +1,13 @@
+---
+lang: cs
+permalink: /cs/
+title: "cURL Runner — spouštějte, formátujte a vizualizujte curl příkazy lokálně"
+description: >-
+  Desktopová aplikace curl dbající o soukromí pro macOS, Windows a Linux.
+  Místní spouštění, bez CORS, bez telemetrie, bez serveru uprostřed.
+  JSON strom / myšlenková mapa, 20 jazyků rozhraní.
+---
+
 # cURL Runner
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja-JP.md) · [한국어](./README.ko-KR.md) · [Français](./README.fr-FR.md) · [Deutsch](./README.de-DE.md) · [Español](./README.es-ES.md) · [Italiano](./README.it-IT.md) · [Português (BR)](./README.pt-BR.md) · [Русский](./README.ru-RU.md) · [العربية](./README.ar-SA.md) · [Tiếng Việt](./README.vi-VN.md) · [Türkçe](./README.tr-TR.md) · [Polski](./README.pl-PL.md) · **Čeština** · [Български](./README.bg-BG.md) · [Română](./README.ro-RO.md) · [ไทย](./README.th-TH.md) · [Bahasa Indonesia](./README.id-ID.md)

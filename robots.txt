@@ -1,0 +1,7 @@
+# cURL Runner — robots.txt
+# Allow all well-behaved crawlers, point them at the sitemap.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://viile.github.io/curl_runner/sitemap.xml

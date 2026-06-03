@@ -1,3 +1,13 @@
+---
+lang: pt-BR
+permalink: /pt-BR/
+title: "cURL Runner — Execute, formate e visualize comandos curl localmente"
+description: >-
+  App desktop curl com foco em privacidade para macOS, Windows e Linux.
+  Execução local, sem CORS, sem telemetria, sem servidor no meio.
+  Visualizações JSON árvore / mind-map, 20 idiomas de UI.
+---
+
 # cURL Runner
 
 [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja-JP.md) · [한국어](./README.ko-KR.md) · [Français](./README.fr-FR.md) · [Deutsch](./README.de-DE.md) · [Español](./README.es-ES.md) · [Italiano](./README.it-IT.md) · **Português (BR)** · [Русский](./README.ru-RU.md) · [العربية](./README.ar-SA.md) · [Tiếng Việt](./README.vi-VN.md) · [Türkçe](./README.tr-TR.md) · [Polski](./README.pl-PL.md) · [Čeština](./README.cs-CZ.md) · [Български](./README.bg-BG.md) · [Română](./README.ro-RO.md) · [ไทย](./README.th-TH.md) · [Bahasa Indonesia](./README.id-ID.md)
