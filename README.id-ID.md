@@ -31,7 +31,7 @@ Ambil installer yang sesuai sistem Anda dari [halaman Releases](https://github.c
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | distribusi lain | `cURL.Runner_*_amd64.AppImage` |
 
-Lebih suka browser? Coba versi web: <https://viile.github.io/curl_display/>
+Lebih suka browser? Coba versi web: <https://viile.github.io/curl_runner/app/>
 
 Versi desktop juga mendukung semua yang dilarang oleh sandbox browser:
 
@@ -98,10 +98,6 @@ Ini adalah alat yang **sepenuhnya lokal**:
 ## Umpan balik
 
 Menemukan bug atau punya saran? Buka [Issue](https://github.com/viile/curl_runner/issues).
-
-## Kode sumber
-
-Repository kode sumber bersifat privat. Repository ini hanya menampung README publik dan artefak rilis. Untuk lisensi komersial atau kerja sama, hubungi melalui GitHub `@viile`.
 
 ## Lisensi
 

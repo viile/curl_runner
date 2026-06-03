@@ -31,7 +31,7 @@ Baixe o instalador compatível com seu sistema na [página de Releases](https://
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | outras distros | `cURL.Runner_*_amd64.AppImage` |
 
-Prefere o navegador? Use a versão web: <https://viile.github.io/curl_display/>
+Prefere o navegador? Use a versão web: <https://viile.github.io/curl_runner/app/>
 
 A versão desktop suporta tudo aquilo que o sandbox do navegador proíbe:
 
@@ -98,10 +98,6 @@ Esta é uma ferramenta **totalmente local**:
 ## Feedback
 
 Bug ou sugestão? Abra uma [issue](https://github.com/viile/curl_runner/issues).
-
-## Código-fonte
-
-O repositório de código-fonte é privado. Este repositório hospeda apenas o README público e os artefatos de release. Para licenciamento comercial ou parceria, fale com `@viile` no GitHub.
 
 ## Licença
 

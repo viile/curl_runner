@@ -31,7 +31,7 @@ Lấy bộ cài tương ứng với hệ điều hành của bạn từ [trang R
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | bản phân phối khác | `cURL.Runner_*_amd64.AppImage` |
 
-Thích dùng trình duyệt? Hãy thử bản web: <https://viile.github.io/curl_display/>
+Thích dùng trình duyệt? Hãy thử bản web: <https://viile.github.io/curl_runner/app/>
 
 Bản desktop hỗ trợ thêm mọi thứ mà sandbox của trình duyệt cấm:
 
@@ -98,10 +98,6 @@ Cần có binary `curl` trên hệ thống (gần như tất cả bản phân ph
 ## Phản hồi
 
 Gặp bug hay muốn thêm tính năng? Mở [Issue](https://github.com/viile/curl_runner/issues).
-
-## Mã nguồn
-
-Repository mã nguồn là private. Repository này chỉ chứa README công khai và file release. Để có giấy phép thương mại hoặc hợp tác, liên hệ qua GitHub `@viile`.
 
 ## Giấy phép
 

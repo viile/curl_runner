@@ -31,7 +31,7 @@ description: >-
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | други дистрибуции | `cURL.Runner_*_amd64.AppImage` |
 
-Предпочитате браузър? Опитайте уеб версията: <https://viile.github.io/curl_display/>
+Предпочитате браузър? Опитайте уеб версията: <https://viile.github.io/curl_runner/app/>
 
 Десктоп версията допълнително поддържа всичко, което браузърният sandbox забранява:
 
@@ -98,10 +98,6 @@ chmod +x cURL.Runner_*_amd64.AppImage
 ## Обратна връзка
 
 Открит бъг или идея за функция? Отворете [issue](https://github.com/viile/curl_runner/issues).
-
-## Сорс код
-
-Хранилището със сорс кода е частно. Това хранилище съдържа само публичното README и release артефактите. За търговски лиценз или сътрудничество, пишете на `@viile` в GitHub.
 
 ## Лиценз
 

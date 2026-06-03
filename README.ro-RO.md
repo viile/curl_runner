@@ -31,7 +31,7 @@ Ia installer-ul potrivit pentru sistemul tău de pe [pagina Releases](https://gi
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | alte distribuții | `cURL.Runner_*_amd64.AppImage` |
 
-Preferi browserul? Încearcă versiunea web: <https://viile.github.io/curl_display/>
+Preferi browserul? Încearcă versiunea web: <https://viile.github.io/curl_runner/app/>
 
 Versiunea desktop suportă în plus tot ce sandbox-ul browserului interzice:
 
@@ -98,10 +98,6 @@ Acesta este un instrument **complet local**:
 ## Feedback
 
 Bug sau cerere de funcționalitate? Deschide un [issue](https://github.com/viile/curl_runner/issues).
-
-## Cod sursă
-
-Depozitul cu codul sursă este privat. Acest depozit găzduiește doar README-ul public și artefactele de release. Pentru licență comercială sau colaborare, contactează `@viile` pe GitHub.
 
 ## Licență
 

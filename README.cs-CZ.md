@@ -31,7 +31,7 @@ Stáhněte si instalátor pro váš systém ze [stránky Releases](https://githu
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | jiné distribuce | `cURL.Runner_*_amd64.AppImage` |
 
-Preferujete prohlížeč? Vyzkoušejte webovou verzi: <https://viile.github.io/curl_display/>
+Preferujete prohlížeč? Vyzkoušejte webovou verzi: <https://viile.github.io/curl_runner/app/>
 
 Desktopová verze navíc podporuje vše, co sandbox prohlížeče zakazuje:
 
@@ -98,10 +98,6 @@ Toto je **plně lokální** nástroj:
 ## Zpětná vazba
 
 Chyba nebo nápad na funkci? Otevřete [issue](https://github.com/viile/curl_runner/issues).
-
-## Zdrojový kód
-
-Repozitář se zdrojovým kódem je soukromý. Tento repozitář hostuje pouze veřejné README a artefakty vydání. Pro komerční licenci nebo spolupráci pište `@viile` na GitHubu.
 
 ## Licence
 

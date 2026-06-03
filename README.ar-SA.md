@@ -33,7 +33,7 @@ description: >-
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | توزيعات أخرى | `cURL.Runner_*_amd64.AppImage` |
 
-تفضّل المتصفح؟ جرّب النسخة الويب: <https://viile.github.io/curl_display/>
+تفضّل المتصفح؟ جرّب النسخة الويب: <https://viile.github.io/curl_runner/app/>
 
 نسخة سطح المكتب تدعم إضافياً ما يمنعه sandbox المتصفح:
 
@@ -100,10 +100,6 @@ chmod +x cURL.Runner_*_amd64.AppImage
 ## الملاحظات
 
 عثرت على خطأ أو لديك اقتراح؟ افتح [issue](https://github.com/viile/curl_runner/issues).
-
-## الكود المصدري
-
-مستودع الكود المصدري خاص. هذا المستودع يستضيف فقط الـ README العام وملفات الإصدارات. للترخيص التجاري أو التعاون، تواصل عبر GitHub: `@viile`.
 
 ## الترخيص
 

@@ -31,7 +31,7 @@ description: >-
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | ดิสโทรอื่น ๆ | `cURL.Runner_*_amd64.AppImage` |
 
-ถ้าไม่อยากติดตั้ง สามารถใช้เวอร์ชันเว็บได้: <https://viile.github.io/curl_display/>
+ถ้าไม่อยากติดตั้ง สามารถใช้เวอร์ชันเว็บได้: <https://viile.github.io/curl_runner/app/>
 
 เวอร์ชันเดสก์ท็อปรองรับสิ่งที่ sandbox ของเบราว์เซอร์ห้ามไว้เพิ่มเติม:
 
@@ -96,10 +96,6 @@ chmod +x cURL.Runner_*_amd64.AppImage
 ## ข้อเสนอแนะ
 
 พบบั๊กหรืออยากเสนอฟีเจอร์? เปิด [Issue](https://github.com/viile/curl_runner/issues) ได้เลย
-
-## ซอร์สโค้ด
-
-ที่เก็บซอร์สโค้ดเป็นแบบส่วนตัว ที่เก็บนี้มีเฉพาะ README สาธารณะและไฟล์รีลีสเท่านั้น สำหรับสัญญาอนุญาตเชิงพาณิชย์หรือความร่วมมือ ติดต่อผ่าน GitHub `@viile`
 
 ## ใบอนุญาต
 

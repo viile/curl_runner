@@ -31,7 +31,7 @@ Sisteminize uygun yükleyiciyi [Releases sayfasından](https://github.com/viile/
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | diğer dağıtımlar | `cURL.Runner_*_amd64.AppImage` |
 
-Tarayıcıyı mı tercih edersiniz? Web sürümünü deneyin: <https://viile.github.io/curl_display/>
+Tarayıcıyı mı tercih edersiniz? Web sürümünü deneyin: <https://viile.github.io/curl_runner/app/>
 
 Masaüstü sürümü ek olarak tarayıcı sandbox'unun yasakladığı her şeyi destekler:
 
@@ -98,10 +98,6 @@ Bu **tamamen yerel** çalışan bir araçtır:
 ## Geri Bildirim
 
 Hata veya öneriniz mi var? [Issues](https://github.com/viile/curl_runner/issues) sayfasını kullanın.
-
-## Kaynak Kod
-
-Kaynak kod deposu özeldir. Bu depo yalnızca herkese açık README ve sürüm dosyalarını barındırır. Ticari lisans veya iş birliği için GitHub'da `@viile` ile iletişime geçin.
 
 ## Lisans
 

@@ -31,7 +31,7 @@ description: >-
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | 기타 배포판 | `cURL.Runner_*_amd64.AppImage` |
 
-브라우저로 사용하시려면 웹 버전을 이용하실 수 있습니다: <https://viile.github.io/curl_display/>
+브라우저로 사용하시려면 웹 버전을 이용하실 수 있습니다: <https://viile.github.io/curl_runner/app/>
 
 데스크톱 버전은 브라우저 샌드박스에서 금지되는 다음 기능을 추가로 지원합니다:
 
@@ -96,10 +96,6 @@ chmod +x cURL.Runner_*_amd64.AppImage
 ## 피드백
 
 버그나 기능 요청은 [Issues](https://github.com/viile/curl_runner/issues)에 남겨주세요.
-
-## 소스 코드
-
-소스 코드 저장소는 비공개입니다. 이 저장소는 공개 README와 릴리스 산출물만 호스팅합니다. 상업적 라이선스나 협업 문의는 GitHub `@viile`으로 연락해 주세요.
 
 ## 라이선스
 

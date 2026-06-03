@@ -18,12 +18,19 @@ plugins:
   - jekyll-sitemap       # auto-generates /sitemap.xml
   - jekyll-relative-links # converts ./README.zh-CN.md → /zh-CN/ at render time
 
-# Apply the layout to every page so we don't need per-file `layout:` keys
+# Apply the layout to every page so we don't need per-file `layout:` keys.
+# Override for `app/` (the Vite-built web app): no Jekyll layout, no inclusion
+# in jekyll-sitemap (the app ships its own /app/sitemap.xml).
 defaults:
   - scope:
       path: ""
     values:
       layout: default
+  - scope:
+      path: "app"
+    values:
+      layout: null
+      sitemap: false
 
 # Social / SEO meta picked up by jekyll-seo-tag
 twitter:

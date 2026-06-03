@@ -30,7 +30,7 @@ description: >-
 | Linux | Debian / Ubuntu | `cURL.Runner_*_amd64.deb` |
 | Linux | 其他發行版 | `cURL.Runner_*_amd64.AppImage` |
 
-不想裝桌面版，也可以直接使用瀏覽器版：<https://viile.github.io/curl_display/>
+不想裝桌面版，也可以直接使用瀏覽器版：<https://viile.github.io/curl_runner/app/>
 
 桌面版相對於瀏覽器版額外支援的能力（瀏覽器沙箱禁止的）：
 
@@ -95,10 +95,6 @@ chmod +x cURL.Runner_*_amd64.AppImage
 ## 意見回饋
 
 發現 bug 或想要新功能？歡迎到 [Issues](https://github.com/viile/curl_runner/issues) 提出。
-
-## 原始碼
-
-原始碼倉庫為私有，本倉庫僅承載公開 README 與發布檔案。若有商業授權或合作需求，請透過 GitHub `@viile` 聯繫。
 
 ## 授權條款
 
